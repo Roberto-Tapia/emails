@@ -70,14 +70,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://res.cloudinary.com/dt1d8hbot/image/upload/v1708933482/E-mail%20Templates/img1_q90znw.png)
 
-My attempt at making a responsive single-column email that works well across multiple e-mail clients. For this E-mail I attempted to use mostly Images to display the text content, in an attempt to simplify the way HTML renders across all the various e-mail clients. Although I found this to be an ok solution, it leaves much to leave desired. Bellow are my findings.
+My attempt at making a responsive single-column email that works well across multiple e-mail clients. For this E-mail I attempted to use mostly Images to display the text content, in an attempt to simplify the way HTML renders across all the various e-mail clients. Although I found this to be an ok solution, it leaves much to leave desired. Below are my findings.
 
 Here's why:
 * Design Limitations: Using only images can limit the design flexibility of your emails. HTML allows for more dynamic and interactive content, such as clickable buttons, forms, and personalized elements, which can enhance user engagement.
 * Accessibility: People with visual impairments who use screen readers won't be able to understand the content of your emails if it's all image-based. HTML emails allow for alt text, which is read by screen readers, making your content accessible to a wider audience.
 * Rendering Issues: Email clients may not always display images by default, or they may block them entirely due to security settings. This means your message could be lost if it's entirely reliant on images.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,8 +85,8 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![Next.js]][Next-url]
+* [![Html][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 
@@ -143,9 +142,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://res.cloudinary.com/dt1d8hbot/image/upload/v1708933482/E-mail%20Templates/img1_q90znw.png
-[Next.js]: https://img.shields.io/badge/MJML-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Next.js]: https://img.shields.io/badge/MJML-000000?style=for-the-badge
+[Next-url]: https://mjml.io/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
