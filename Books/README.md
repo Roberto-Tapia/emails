@@ -28,9 +28,6 @@
   <p align="center">
     E-mail template using MJML framework!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://books-email.netlify.app/">View Demo</a>
   </p>
 </div>
@@ -95,16 +92,6 @@ Here's why:
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -118,9 +105,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@exitsim_exe](https://twitter.com/exitSim_exe) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Roberto-Tapia/emails/tree/main/Books](https://github.com/Roberto-Tapia/emails/tree/main/Books)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +129,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://res.cloudinary.com/dt1d8hbot/image/upload/v1708933482/E-mail%20Templates/img1_q90znw.png
-[Next.js]: https://img.shields.io/badge/MJML-000000?style=for-the-badge
+[Next.js]: https://img.shields.io/badge/MJML-DD0031?style=for-the-badge
 [Next-url]: https://mjml.io/
-[React.js]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/CSS3-35495E?style=for-the-badge&logo=css3&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
