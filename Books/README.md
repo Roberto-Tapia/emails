@@ -86,7 +86,7 @@ Here's why:
 ### Built With
 
 * [![Next.js]][Next-url]
-* [![Html][React.js]][React-url]
+* [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 
@@ -144,9 +144,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [product-screenshot]: https://res.cloudinary.com/dt1d8hbot/image/upload/v1708933482/E-mail%20Templates/img1_q90znw.png
 [Next.js]: https://img.shields.io/badge/MJML-000000?style=for-the-badge
 [Next-url]: https://mjml.io/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue.js]: https://img.shields.io/badge/CSS3-35495E?style=for-the-badge&logo=css3&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
