@@ -85,7 +85,6 @@ Here's why:
 * [![Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +104,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@exitsim_exe](https://twitter.com/exitSim_exe) - email@example.com
+Roberto Tapia - [@exitsim_exe](https://twitter.com/exitSim_exe) - tapiaroberto1994@gmail.com
 
 Project Link: [https://github.com/Roberto-Tapia/emails/tree/main/Books](https://github.com/Roberto-Tapia/emails/tree/main/Books)
 
