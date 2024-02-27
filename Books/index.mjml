@@ -1,0 +1,37 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class name="format" width="200px"/>
+        </mj-attributes>
+    </mj-head>
+  <mj-body background-color="#f4f4f4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#f4f4f4" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-top="0" >
+      <mj-column>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/6723acbc-b935-49b3-a5cd-f1c8ca079e39.jpeg" target="_blank" title="" width="780px"></mj-image>
+        <mj-image align="center" border="none" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 0px" src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/ccac2902-ff1c-4369-83bc-6cad6df2f4ed.jpeg" target="_blank" title="" width="780px"></mj-image>
+        <mj-image align="center" border="none" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 0px" src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/b708b1c5-95b0-4ada-9532-4037c9ea5ae4.jpeg" target="_blank" title="" width="780px"></mj-image>
+        <mj-image align="center" border="none" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 0px" src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/1873aa6b-c569-4041-8654-7fc3b7bec0fa.jpeg" target="_blank" title="" width="780px"></mj-image>
+        <mj-image align="center" border="none" padding-top="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 0px" src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/655a3089-eb5a-47f4-bb89-6e2b4bbd2083.png" target="_blank" title="" width="250px"></mj-image>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section>
+        <mj-column width="200px" mj-class="format">
+            <mj-table>
+                <tr style="text-align:center">
+                    <td style="padding: 0 10px 0 0;">
+                        <a href="www.google.com" style="max-width:100%; word-wrap:break-word"><img src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/0efe7a2e-459d-4ad7-883b-e4bcfafeabd4.png?v=0" width="50px" style="border:0; height:auto; line-height:100%; max-width:100%; outline:none; text-decoration:none; width:50px; display:inline-block"></img></a>
+                    </td>
+                    <td style="padding: 0 10px 0 0;">
+                        <a href="www.google.com" style="max-width:100%; word-wrap:break-word"><img src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/f93ad38d-edc9-4f7a-8de5-721fc42d3b5e.png?v=0" width="50px" style="border:0; height:auto; line-height:100%; max-width:100%; outline:none; text-decoration:none; width:50px; display:inline-block"></img></a>
+                    </td>
+                    <td style="padding: 0 10px 0 0;">
+                        <a href="www.google.com" style="max-width:100%; word-wrap:break-word"><img src="https://d3k81ch9hvuctc.cloudfront.net/company/TGqE5t/images/7be6c35a-5c2d-4ff3-9eb9-2bd54669cbfd.png?v=0" width="50px" style="border:0; height:auto; line-height:100%; max-width:100%; outline:none; text-decoration:none; width:50px; display:inline-block"></img></a>
+                    </td>
+                </tr>
+            </mj-table>
+        </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
