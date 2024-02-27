@@ -28,7 +28,7 @@
   <p align="center">
     E-mail for Apple products using MJML!
     <br />
-    <a href="https://books-email.netlify.app/">View Demo</a>
+    <a href="https://apple-email2.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://res.cloudinary.com/dt1d8hbot/image/upload/v1708933482/E-mail%20Templates/img1_q90znw.png)
+[![Product Name Screen Shot][product-screenshot]](https://res.cloudinary.com/dt1d8hbot/image/upload/v1709069557/E-mail%20Templates/index.mjml-MJML-VisualStudioCode2024-02-2711-34-40-ezgif.com-video-to-gif-converter_mztr65.gif)
 
 I was inspired by the clean and slick design that is commonly associated with Apple products. Knowing the design and styling limitations of creating e-mails, I wanted to challenge my self to recreate this very on-brand look. I was able to practice creating multi-column design emails using tables, and nesting elements to add layers of padding that would allow me to recreate this look.
 
@@ -133,7 +133,7 @@ Project Link: [https://github.com/Roberto-Tapia/emails/tree/main/Books](https://
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: https://res.cloudinary.com/dt1d8hbot/image/upload/v1708933482/E-mail%20Templates/img1_q90znw.png
+[product-screenshot]: https://res.cloudinary.com/dt1d8hbot/image/upload/v1709069557/E-mail%20Templates/index.mjml-MJML-VisualStudioCode2024-02-2711-34-40-ezgif.com-video-to-gif-converter_mztr65.gif
 [Next.js]: https://img.shields.io/badge/MJML-DD0031?style=for-the-badge
 [Next-url]: https://mjml.io/
 [React.js]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white
