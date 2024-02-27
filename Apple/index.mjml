@@ -1,5 +1,10 @@
 <mjml>
     <mj-head>
+        <mj-style>
+            a:hover {
+            text-decoration: underline !important;
+            }
+        </mj-style>
         <mj-attributes>
             <mj-class name="logo-style" width="20px" height="24px"/>
             <mj-class name="header-line-height" line-height="25px"/>
@@ -29,44 +34,175 @@
             <mj-image src="https://www.apple.com/dma/us/23/F93A45B/i/m_hero_2x.jpg" alt="products" mj-class="img1"/>    
         </mj-column>
     </mj-section>
-    <mj-section background-color="#343634" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-top="0"  padding-bottom="0">
-      <mj-column background-color="#343634" width="600px" padding-top="25px" padding-bottom="25px">
+    <mj-section background-color="#1a1818" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-top="0"  padding-bottom="0">
+      <mj-column background-color="#1a1818" width="600px" padding-top="25px" padding-bottom="25px">
             <mj-text color="white" align="center" font-size="30px" mj-class="header-line-height-2" >
             The latest gifts that </br>are second to none. 
         </mj-text>
         </mj-column>
     </mj-section>
-    <mj-section background-color="#343634" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-top="0"  padding-bottom="0">
-        <mj-column background-color="#343634" width="600px" padding-top="25px" padding-bottom="25px">
-            <mj-table color="black">
-                <tr style="text-align:center; background-color: white; width: 600px">
-                    <td style="padding: 0 0 0 0; background-color: black; margin: 0">
-                        <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/m_iphone14pro_2x.jpg" style="height: 200px; width: 200px";></a>
+    <mj-section background-color="#1a1818" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-top="0"  padding-bottom="0">
+        <mj-column background-color="#1a1818" width="600px" padding-top="25px" padding-bottom="0px">
+            <mj-table color="black" >
+                <tr style="text-align:center; background-color: white; width: 600px" >
+                    <td style="padding: 0px 10px 0 10px; background-color: #1a1818;">
+                        <div style="background-color: white; border-radius: 10px 10px 10px 10px; padding-bottom: 30px">
+                            <div style="width: 240px">
+                                <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/m_iphone14pro_2x.jpg" style="height: 160px; width:280px; border-radius: 10px 10px 0 0; background-color: white; padding-bottom: 20px"></a>
+                            <div style="padding-bottom: 10px; background-color: white;">iPhone 14 Pro</div>
+                            <a href="https://www.apple.com" ><img src="https://www.apple.com/dma/us/23/F93A45B/i/BTN_Buy_small_2x.png" style="height: 20px; width: 40px; border-radius: 0px 0px 10px 10px; padding-bottom: 0px" ></a>
+                            
+                        </div>
                     </td>
-                    <td style="padding: 0 0px; background-color: blue;">
-                        <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/m_iphone14pro_2x.jpg" style="height: 200px; width: 200px;";></a>
+                    <td style="padding: 0px 10px 0 10px; background-color: #1a1818;">
+                        <div style="background-color: white; border-radius: 10px 10px 10px 10px; padding-bottom: 30px;">
+                            <div style="width: 240px">
+                                <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/m_watch_s8_2x.jpg" style="height: 140px; width:280px; border-radius: 10px 10px 0 0; background-color: white; padding-bottom: 20px"></a>
+                            <div style="padding-bottom: 10px; background-color: white;">Apple Watch <br>Series 8</div>
+                            <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/BTN_Buy_small_2x.png" style="height: 20px; width: 40px; border-radius: 0px 0px 10px 10px; padding-bottom: 0px"></a>
+                            
+                        </div>
                     </td>
-                    <!-- <td style="padding: 0 15px 0 0; width: 400px">John</td>
-                    <!-- <td background-color="white">
-                        <table style="background-color: black; padding: 20px 0">
-                            <tr style="background-color: green">
-                                <td style="background-color: red; padding: 0px; width:300px; object-fit: contain; margin-left: auto; margin-right: auto;">
-                                    <img src="https://www.apple.com/dma/us/23/F93A45B/i/m_iphone14pro_2x.jpg" style="height: 160px; min-width: 300px">
-                                </td>
-                                <td style="background-color: blue; padding: 20px; width: 300px">
-                                </td>
-                            </tr>
-                        </table>
-                    </td> -->
                     
                  </tr>
-        </mj-table>
+            </mj-table>
         </mj-column>
-        <mj-column background-color="#343634" width="400px" padding-top="25px" padding-bottom="25px">
-    
+        <mj-column background-color="#1a1818" width="600px" padding-top="0px" padding-bottom="25px">
+            <mj-table color="black">
+                <tr style="text-align:center; background-color: white; width: 600px">
+                    <td style="padding: 0px 10px 0 10px; background-color: #1a1818;">
+                        <div style="background-color: white; border-radius: 10px 10px 10px 10px; padding-bottom: 30px">
+                            <div style="width: 240px">
+                                <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/m_mba_2x.jpg" style="height: 200px; width:200px; border-radius: 10px 10px 0 0; background-color: white; padding-bottom: 20px"></a>
+                            <div style="padding-bottom: 10px; background-color: white;">MacBook Air </div>
+                            <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/BTN_Buy_small_2x.png" style="height: 20px; width: 40px; border-radius: 0px 0px 10px 10px; padding-bottom: 0px"></a>
+                            
+                        </div>
+                    </td>
+                    <td style="padding: 0px 10px 0 10px; background-color: #1a1818;">
+                        <div style="background-color: white; border-radius: 10px 10px 10px 10px; padding-bottom: 30px">
+                            <div style="width: 240px">
+                                <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/m_iPad_air_2x.jpg" style="height: 200px; width:200px; border-radius: 10px 10px 0 0; background-color: white; padding-bottom: 20px"></a>
+                            
+                            <div style="padding-bottom: 10px; background-color: white;">iPad Air</div>
+                            <a href="https://www.apple.com"><img src="https://www.apple.com/dma/us/23/F93A45B/i/BTN_Buy_small_2x.png" style="height: 20px; width: 40px; border-radius: 0px 0px 10px 10px; padding-bottom: 0px"></a>
+                            
+                        </div>
+                    </td>
+                    
+                 </tr>
+            </mj-table>
         </mj-column>
-        
+    </mj-section>
+    <mj-section background-color="#1a1818" padding-top="0">
+        <mj-column width="580px" padding-top="0">
+            <mj-table padding-top="0">
+                <tr style= "background-color: white; border-radius: 10px 10px 10px 10px; text-align: center; padding: 0 0 0 0; margin: 0 0;">
+                    <td style="background color: red; width: 200px; border-radius: 10px 0 0 10px; height: 250px; padding-top: 0">
+                        <div style="font-size: 16px; padding: 10px 0">
+                            Apple Watch Studio
+                        </div>
+                        <div style="font-size: 24px; font-weight: bold; padding: 5px 0">
+                            Your Gift.
+                        </div>
+                        <div style="font-size: 24px; font-weight: bold; padding: 5px 0">
+                            Dad's Way.
+                        </div>
+                        <div style="padding-top: 15px; color: #4287f5; font-size: 14px">
+                            <a href="https://www.apple.com" style="color: #4287f5; text-decoration: none" css-class="hover">
+                                Create their style
+                                <img src="https://www.apple.com/dma/us/23/F93A45B/i/14_chevron_0066cc_2x.png" style="width: 12px; height: 10px;">
+                            </a>
+                        </div>
+                        
+                    </td>
+                    <td style="color: white; width: 400px; border-radius: 0 10px 10px 0;">
+                        <img src="https://www.apple.com/dma/us/23/F93A45B/i/m_watch_hero_2x.jpg" style="height: 250px; border-radius: 0 10px 10px 0" align= "center">
+                    </td>
 
+                </tr>
+            </mj-table>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#1a1818" padding-top="0">
+        <mj-column width="580px" padding-top="0">
+            <mj-table padding-top="0">
+                <tr style= "border-radius: 10px 10px 10px 10px; text-align: center; padding: 0 0 0 0; margin: 0 0;">
+                    <td width="600px" style="padding: 0 5px;">
+                        <div style="font-size: 30px; line-height: 30px; font-weight: 400; color: white;">
+                            See why Apple is <br>the best place to shop.
+                        </div>
+                    </td>
+
+                </tr>
+            </mj-table>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#1a1818" padding-top="0">
+        <mj-column width="580px" padding-top="0">
+            <mj-table padding-top="0">
+                <tr style= "border-radius: 10px 10px 10px 10px; text-align: center; padding: 0 0 0 0; margin: 0 0; border-radius: 10px; " valign="top">
+                    <td width="200px" style="padding: 0 5px;">
+                        <div style="background-color: #292727; border-radius: 10px; padding: 0 25px; text-align: left; min-height: 310px;" >
+                            <img src="https://www.apple.com/dma/us/23/F93A45B/i/icon_specialist_2x.png" style="width: 40px; padding: 20px 0 5px 0; display: inline-block;">
+                            <div style="line-height: 18px; font-size: 16px; padding: 5px 0; color: white">Shop with <br>a specialist</div>
+                            <div style="padding: 5px 0px 5px; line-height: 16px; font-size: 12px; color: white">Whether you shop in a store or online, our Specialists can help you pick the perfect gift.</div>
+                            <div style="padding: 5px 0 25px; color: #4287f5; font-size: 12px">
+                                <a href="https://www.apple.com" style="color: #4287f5; text-decoration: none;" css-class="hover">
+                                Get help
+                                    <img src="https://www.apple.com/dma/us/23/F93A45B/i/14_chevron_0066cc_2x.png" style="width: 14px; height: 7px;">
+                                </a>
+                            </div>
+                        </div>
+                    </td>
+                    <td width="200px" style="padding: 0 5px;">
+                        <div style="background-color: #292727; border-radius: 10px; padding: 0 25px; text-align: left; min-height: 310px;">
+                            <img src="https://www.apple.com/dma/us/23/F93A45B/i/icon_card_2x.png" style="width: 40px; padding: 20px 0 5px 0; display: inline-block;">
+                            <div style="line-height: 18px; font-size: 16px; padding: 5px 0; color: white">Buy with <br>Apple Card.</div>
+                            <div style="padding: 5px 0px 5px; line-height: 16px; font-size: 12px; color: white">Get 3% Daily Cash back with Apple Card. And pay over time, interest‑free when you choose to check out with Apple Card Monthly Installments.1</div>
+                            <div style="padding: 5px 0 15px; color: #4287f5; font-size: 12px">
+                                <a href="https://www.apple.com" style="color: #4287f5; text-decoration: none;" css-class="hover">
+                                Learn more
+                                    <img src="https://www.apple.com/dma/us/23/F93A45B/i/14_chevron_0066cc_2x.png" style="width: 14px; height: 7px;">
+                                </a>
+                            </div>
+                        </div>
+                    </td>
+                    <td width="200px" style="padding: 0 5px;">
+                        <div style="background-color: #292727; border-radius: 10px; padding: 0 25px; text-align: left; min-height: 310px;">
+                            <img src="https://www.apple.com/dma/us/23/F93A45B/i/icon_delivery_2x.png" style="width: 40px; padding: 20px 0 5px 0; display: inline-block;">
+                            <div style="line-height: 18px; font-size: 16px; padding: 5px 0; color: white">Free delivery and pickup.</div>
+                            <div style="padding: 5px 0px 5px; line-height: 16px; font-size: 12px; color: white">Choose from two‑hour delivery,2 free delivery, or pickup at your Apple Store.</div>
+                            <div style="padding: 5px 0 25px; color: #4287f5; font-size: 12px">
+                                <a href="https://www.apple.com" style="color: #4287f5; text-decoration: none" css-class="hover">
+                                Learn more
+                                    <img src="https://www.apple.com/dma/us/23/F93A45B/i/14_chevron_0066cc_2x.png" style="width: 14px; height: 7px;">
+                                </a>
+                            </div>
+                        </div>
+                    </td>
+
+                </tr>
+            </mj-table>
+        </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0px">
+        <mj-column width="600px" background-color="#1a1818" padding-bottom="20px">
+            <mj-text padding="0px 40px" align="center">
+                <div style="min-height: 100px; border-radius: 10px; background-color: #292727; padding: 30px 0">
+                    <img src="https://www.apple.com/dma/us/23/F93A45B/i/icon_updates_2x.png" style="width: 45px">
+                    <div style="color: white; padding: 10px 0; font-size: 19px; font-weight: 500">Get the latest updates from the Apple Store.</div>
+                    <div style="color: white; padding: 0px 0; line-height: 16px; font-size: 13px">Tap to set up alerts for product announcements, offers, store <br>events, and more with the Apple Store app.</div>
+                    <div style="padding: 15px 0 0px; color: #4287f5; font-size: 14px">
+                            <a href="https://www.apple.com" style="color: #4287f5; text-decoration: none" css-class="hover">
+                                Set up alerts
+                                <img src="https://www.apple.com/dma/us/23/F93A45B/i/14_chevron_0066cc_2x.png" style="width: 16px; height: 7px;">
+                            </a>
+                    </div>
+                    
+                </div>
+            </mj-text>
+        </mj-column>
     </mj-section>
    
     
